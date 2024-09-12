@@ -1,6 +1,5 @@
 ## DIP Assignments 
-- [00] XXX
-- [01] XXX
+- [01] [Image Warping](01_ImageWarping/)
 - [02] XXX
 - [03] XXX
 - [04] XXX
