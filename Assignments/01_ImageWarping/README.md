@@ -1,4 +1,4 @@
-# Assignment 1 - Mesh
+# Assignment 1 - Image Warping
 
 ### In this assignment, you will implement basic transformation and point-based deformation for images.
 
