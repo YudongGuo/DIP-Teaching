@@ -12,5 +12,5 @@
 ### 课程作业
 - 作业会更新在[Assignments](Assignments/)文件夹
 - [作业提交模板](https://github.com/paperswithcode/releasing-research-code/blob/master/templates/README.md)
-- [Assignment_01](Assignments/01_Image_Warping)
+- [Assignment_01](Assignments/01_ImageWarping)
 - [Assignment_02](Assignments/02_DIPwithPyTorch/)
