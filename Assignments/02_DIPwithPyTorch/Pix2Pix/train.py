@@ -157,7 +157,7 @@ def main():
     scheduler = StepLR(optimizer, step_size=200, gamma=0.2)
 
     # Training loop
-    num_epochs = 2000
+    num_epochs = 800
     for epoch in range(num_epochs):
         train_one_epoch(model, train_loader, optimizer, criterion, device, epoch, num_epochs)
         validate(model, val_loader, criterion, device, epoch, num_epochs)
