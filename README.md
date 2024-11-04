@@ -12,5 +12,8 @@
 ### 课程作业
 - 作业会更新在[Assignments](Assignments/)文件夹
 - [作业提交模板](https://github.com/paperswithcode/releasing-research-code/blob/master/templates/README.md)
-- [Assignment_01](Assignments/01_ImageWarping)
-- [Assignment_02](Assignments/02_DIPwithPyTorch/)
+- [Assignment_01](Assignments/01_ImageWarping) (Due: 2024.10.01)
+- [Assignment_02](Assignments/02_DIPwithPyTorch/) (Due: 2024.10.31)
+- [Assignment_03](Assignments/03_PlayWithGANs/) (Due: 2024.11.18)
+- [Assignment_04] TBA...
+- [Assignment_05] TBA...
