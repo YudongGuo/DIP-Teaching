@@ -49,9 +49,11 @@ According to equations (1-3), using these `N` ordered 2D Gaussians, we can compu
 
 The alpha value of a 2D Gaussian $i$ at a single pixel location $\mathbf{x}$ can be calculated using:
 
+
 $$
-  \alpha_{(\mathbf{x}, i)} = o_i * f(\mathbf{x}; \boldsymbol{\mu}_{i}, \boldsymbol{\Sigma}_{i})
+  \alpha_{(\mathbf{x}, i)} = o_i*f(\mathbf{x}; \boldsymbol{\mu}\_{i}, \boldsymbol{\Sigma}\_{i})
 $$
+
 
 Here, $o_i$ is the opacity of each Gaussian, which is a learnable parameter.
 
