@@ -31,6 +31,7 @@ According to equation (5), we need to project the 3D Gaussians to the image spac
 
 #### 2.3 Compute the Gaussian Values
 We need to compute 2D Gaussians for volume rendering. A 2D Gaussian is represented by:
+
 $$
   f(\mathbf{x}; \boldsymbol{\mu}_{i}, \boldsymbol{\Sigma}_{i}) = \frac{1}{2 \pi \sqrt{ | \boldsymbol{\Sigma}_{i} |}} \exp \left ( {-\frac{1}{2}} (\mathbf{x} - \boldsymbol{\mu}_{i})^T \boldsymbol{\Sigma}_{i}^{-1} (\mathbf{x} - \boldsymbol{\mu}_{i}) \right ) = \frac{1}{2 \pi \sqrt{ | \boldsymbol{\Sigma}_{i} |}} \exp \left ( P_{(\mathbf{x}, i)} \right )
 $$
@@ -40,6 +41,7 @@ Here, $\mathbf{x}$ is a 2D vector representing the pixel location, $\boldsymbol{
 $$
   P_{(\mathbf{x}, i)} = {-\frac{1}{2}} (\mathbf{x} - \boldsymbol{\mu}_{i})^T \mathbf{\Sigma}_{i}^{-1} (\mathbf{x} - \boldsymbol{\mu}_{i})
 $$
+
 You need to fill [the code here](gaussian_renderer.py#L61) for computing the Gaussian values.
 
 #### 2.4 Volume Rendering (α-blending)
