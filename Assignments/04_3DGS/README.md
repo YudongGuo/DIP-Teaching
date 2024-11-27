@@ -71,5 +71,5 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 ```
 
 ### Compare with the original 3DGS Implementation
-Since we use a pure PyTorch implementation, the training speed and GPU memory usage are far from satisfactory. Also, we do not implement some crucial parts like adaptive Gaussian densification scheme. Run the original 3DGS implementation with the same dataset to compare the results.
+Since we use a pure PyTorch implementation, the training speed and GPU memory usage are far from satisfactory. Also, we do not implement some crucial parts like adaptive Gaussian densification scheme. Run the [original 3DGS implementation](https://github.com/graphdeco-inria/gaussian-splatting) with the same dataset to compare the results.
 
