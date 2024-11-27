@@ -14,6 +14,5 @@
 - [作业提交模板](https://github.com/paperswithcode/releasing-research-code/blob/master/templates/README.md)
 - [Assignment_01](Assignments/01_ImageWarping) (Due: 2024.10.01)
 - [Assignment_02](Assignments/02_DIPwithPyTorch/) (Due: 2024.10.31)
-- [Assignment_03](Assignments/03_PlayWithGANs/) (Due: 2024.11.20)
-- [Assignment_04] TBA...
-- [Assignment_05] TBA...
+- [Assignment_03](Assignments/03_PlayWithGANs/) (Due: 2024.11.30)
+- [Assignment_04](Assignments/04_3DGS/) (Due: 2025.01.06)
