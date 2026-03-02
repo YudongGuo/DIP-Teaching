@@ -9,14 +9,14 @@
 - [PyTorch 入门](https://github.com/datawhalechina/thorough-pytorch)
 
 ### AI 辅助编程工具
-善用 AI 工具可以大幅提升编程效率，推荐以下工具：
+善用 AI 工具可以大幅提升编程效率，推荐以下工具（有条件的话，建议优先使用国外 AI 助手）：
 
 #### 对话式 AI 助手
 - [ChatGPT](https://chat.openai.com/) - OpenAI 的对话式 AI，支持代码生成、调试、解释等
 - [Claude](https://claude.ai/) - Anthropic 的 AI 助手，擅长长文本理解和代码分析
 - [Gemini](https://gemini.google.com/) - Google 的 AI 助手，与 Google 生态深度集成
 - [Kimi](https://kimi.moonshot.cn/) - 支持超长上下文，适合阅读论文和长文档
-- [DeepSeek](https://chat.deepseek.com/) - 国产开源大模型，代码能力强
+- [DeepSeek](https://chat.deepseek.com/) - 开源大模型，支持联网搜索，免费额度充足
 
 #### AI 编程工具（IDE 集成）
 - [GitHub Copilot](https://github.com/features/copilot) - 集成在 VS Code / JetBrains 等 IDE 中的 AI 代码补全工具，学生可免费申请
