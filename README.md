@@ -2,6 +2,9 @@
 
 > 往期课程材料请查看对应分支：[2024Fall](../../tree/2024Fall)
 
+### 上课课件
+- [课件链接](https://pan.ustc.edu.cn/share/index/66294554e01948acaf78)（持续更新）
+
 ### 编程入门资料
 不用花很多时间专门学习，在课程作业或科研项目过程中一边学一边善用搜索即可
 - [Python 入门](https://github.com/walter201230/Python)
